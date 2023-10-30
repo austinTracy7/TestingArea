@@ -27,11 +27,6 @@ pie
     title Top 14 Raid Pokemon Type Distribution
     "Fire": 3
     "Dark": 2 
-    "Dragon": 2 
-    "Fighting": 2
-    "Flying": 2
-    "Ghost": 2 
-    "Ground": 2 
 ```
 
 
