@@ -24,7 +24,7 @@ pie
 
 ```mermaid
 pie
-    title Top 14 Raid Pokemon Type Distribution
+    title Top 14 Raid Pokémon Type Distribution
     "Fire": 3
     "Dark": 2 
 ```
