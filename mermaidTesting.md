@@ -31,7 +31,7 @@ pie
 ```
 
 ```mermaid
-%%{init: {"themeVariables": {"pie1": "#ff0000", "pie2": "#000000", "pie3": "#00008B", "pie4": "#ff00000", "pie5": "#d3d3d3", "pie6": "#663399", "pie7": "#A52A2A", "pie8": "#828282", "pie9": "#ffff00", "pie10": "#006400", "pie11": "#8467D7", "pie12": "#Cd5c5c", "pie13": "#C0c0c0", "pie14": "#0000ff"} }}%%
+%%{init: {"themeVariables": {"pie1": "#ff0000", "pie2": "#000000", "pie3": "#00008B"} }}%%
 pie
     title Top 14 Raid Pokémon Type Distribution
     "Fire": 3
