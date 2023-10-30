@@ -26,7 +26,9 @@ pie
 pie
     title Top 14 Raid Pokémon Type Distribution
     "Fire": 3
-    "Dark": 2 
+    "Dark": 2
+    "Dragon": 2 
+    "Fighting": 2
 ```
 
 
